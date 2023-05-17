@@ -1,0 +1,1 @@
+{"logs":{"init":["","\u001b[0m\u001b[1mInitializing the backend...\u001b[0m","","\u001b[0m\u001b[1mInitializing provider plugins...\u001b[0m","- Finding latest version of ciscodevnet/aci...","- Using ciscodevnet/aci v2.5.2 from the shared cache directory"]}}
